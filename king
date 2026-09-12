@@ -1,10 +1,20 @@
 {
-  "version": "12.7.3",
-  "title": "تحديث جديد!",
-  "NewVersion": "12.7.3",
-  "downloadLink": "https://t.me/king_dex_2",
-  "changeLogMessage": "الرجاء التحديث لتفعيل الميزات الجديدة.",
-  "negativebtn": "لاحقاً",
-  "positivebtn": "تحديث",
-  "changelogTitle": "ما الجديد في هذا الإصدار؟"
+  "version": "1.0.0",
+  "title": "لا يوجد تحديث",
+  "NewVersion": "1.0.0",
+  "downloadLink": "",
+  "changeLogMessage": "أنت تستخدم أحدث إصدار بالفعل.",
+  "negativebtn": "إغلاق",
+  "positivebtn": "موافق",
+  "changelogTitle": "حالة التطبيق"
+}
+{
+  "version": "1.0.0",
+  "title": "لا يوجد تحديث",
+  "NewVersion": "1.0.0",
+  "downloadLink": "",
+  "changeLogMessage": "أنت تستخدم أحدث إصدار بالفعل.",
+  "negativebtn": "إغلاق",
+  "positivebtn": "موافق",
+  "changelogTitle": "حالة التطبيق"
 }
